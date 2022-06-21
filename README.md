@@ -2,7 +2,7 @@ Hi, I'm Ferhat 👋🏻 🧑🏼‍💻
 
 - 🔭 I’m currently working on swift
 -  I’m currently learning SwiftUI and UIKit
-- Skills:  SWİFT / HTML / CSS
+- Skills:  SWİFT / UİKİT / HTML / CSS
 
 
 
